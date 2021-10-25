@@ -2,7 +2,7 @@
 
 ![77edf625ec0fb421f210465b34ec32dd14c0db3e_hq](https://user-images.githubusercontent.com/93132170/138693024-023ea45c-c827-46f0-b7ed-40128f1fcbeb.gif)
 
-In short, im just a:
+In short, im just a: <br />
 • Brazilian <br />
 • 17y old <br />
 • Computer engineering student
